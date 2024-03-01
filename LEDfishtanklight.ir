@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Pwr_on
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 07 00 00 00
+# 
+name: Pwr_off
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 06 00 00 00
+# 
+name: Brightdown
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 04 00 00 00
+# 
+name: Brightup
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 05 00 00 00
+# 
+name: Red
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 09 00 00 00
+# 
+name: Green
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 08 00 00 00
+# 
+name: Blue
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0A 00 00 00
+# 
+name: White
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0B 00 00 00
+# 
+name: Red2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0D 00 00 00
+# 
+name: Green2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0C 00 00 00
+# 
+name: Blue2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0E 00 00 00
+# 
+name: Red3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 15 00 00 00
+# 
+name: Green3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 14 00 00 00
+# 
+name: Blue3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 16 00 00 00
+# 
+name: Red4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 19 00 00 00
+# 
+name: Green4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 18 00 00 00
+# 
+name: Blue4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1A 00 00 00
+# 
+name: Red5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 11 00 00 00
+# 
+name: Green5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 10 00 00 00
+# 
+name: Blue5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 12 00 00 00
+# 
+name: Flash
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0F 00 00 00
+# 
+name: Strobe
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 17 00 00 00
+# 
+name: Fade
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1B 00 00 00
+# 
+name: Smooth
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 13 00 00 00
